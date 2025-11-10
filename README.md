@@ -1,0 +1,56 @@
+# Fundamentos de Java para Principiantes
+## Resumen del Curso
+Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo
+programación orientada a objetos. No es necesario descargar Java.
+**Duración total**: ~60 minutos
+**Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+**Prerrequisitos**: Ninguno
+**Herramientas necesarias**: Navegador web (Chrome, Firefox, Safari, Edge)
+**Repositorio de Código Fuente**: []()
+## Secuencia de la Lección
+### Lección 1: ¿Qué es Java y la Programación? 
+- **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
+- **Enlace**: [Ver la lección]()
+- **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
+- **Empieza a programar**: [Abrir Replit - Hola mundo]()
+### Lección 2: Variables y tipos de datos 
+- **Descripción**: Aprende a almacenar datos en Java usando variables.
+- **Enlace**: [Ver la lección]()
+- **Conclusiones clave**: Usa int, String; declara como int age = 15;
+- **Práctica**: [Clic para programar]() 
+### Lección 3: Estructuras de control: Decisiones y bucles 
+- **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
+- **Enlace**: [Ver la lección]()
+- **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
+- **Práctica**: [Clic para programar]() 
+### Lección 4: Métodos, Entrada/Salida e Introducción a la POO 
+- **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
+- **Enlace**: [Ver la lección]()
+- **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
+- **Práctica**: [Haz clic para practicar]() 
+### Lección 5: Fundamentos de POO y programas sencillos 
+- **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
+- **Enlace**: [Ver la lección]()
+- **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
+- **Proyecto final**: [Crea tu aplicación POO]()
+### Lección 6: Consejos y próximos pasos 
+- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+- **Enlace**: [Ver la lección]()
+- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
+## Recursos adicionales
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
+
+---
+## 👥 Elaboración
+Universidad Peruana de Ciencias Aplicadas <br>
+Carrera de Ingeniería de Software <br>
+Período 202520<br>
+1ASI0729 Desarrollo de Aplicaciones Open Source <br>
+NRC 7391<br> 
+**Nombre del equipo**: Inventiapp<br> 
+**Integrantes del equipo**: <br>
+- Dayro
+- Maria
+- Piero
+- Vannesa
+- Fabiola Saldaña Ayala
