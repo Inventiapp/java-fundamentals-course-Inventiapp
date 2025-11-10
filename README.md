@@ -1,12 +1,12 @@
 # Fundamentos de Java para Principiantes
 ## Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo
-programación orientada a objetos. No es necesario descargar Java.
-**Duración total**: ~60 minutos
+programación orientada a objetos. No es necesario descargar Java.<br>
+**Duración total**: ~60 minutos<br>
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
-**Prerrequisitos**: Ninguno
-**Herramientas necesarias**: Navegador web (Chrome, Firefox, Safari, Edge)
-**Repositorio de Código Fuente**: []()
+**Prerrequisitos**: Ninguno<br>
+**Herramientas necesarias**: Navegador web (Chrome, Firefox, Safari, Edge)<br>
+**Repositorio de Código Fuente**: [https://github.com/Inventiapp/java-fundamentals-course-Inventiapp](https://github.com/Inventiapp/java-fundamentals-course-Inventiapp)<br>
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es Java y la Programación? 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
@@ -25,7 +25,7 @@ programación orientada a objetos. No es necesario descargar Java.
 - **Práctica**: [Clic para programar]() 
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO 
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlace**: [Ver la lección]()
+- **Enlace video**: [Ver la lección]()
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
 - **Práctica**: [Haz clic para practicar]() 
 ### Lección 5: Fundamentos de POO y programas sencillos 
@@ -37,9 +37,6 @@ programación orientada a objetos. No es necesario descargar Java.
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección]()
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-## Recursos adicionales
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
-
 ---
 ## 👥 Elaboración
 Universidad Peruana de Ciencias Aplicadas <br>
@@ -48,7 +45,7 @@ Período 202520<br>
 1ASI0729 Desarrollo de Aplicaciones Open Source <br>
 NRC 7391<br> 
 **Nombre del equipo**: Inventiapp<br> 
-**Integrantes del equipo**: <br>
+**Integrantes del equipo**:
 - Dayro
 - Maria
 - Piero
