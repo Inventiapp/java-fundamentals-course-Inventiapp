@@ -10,9 +10,9 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es Java y la Programación? 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [https://www.youtube.com/watch?v=SG2eBjIP9Qc](https://www.youtube.com/watch?v=SG2eBjIP9Qc)
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Replit - Hola mundo]()
+- **Empieza a programar**: [https://github.com/Inventiapp/java-fundamentals-course-Inventiapp/blob/main/lessons/lesson1/Main.java](https://github.com/Inventiapp/java-fundamentals-course-Inventiapp/blob/main/lessons/lesson1/Main.java)
 ### Lección 2: Variables y tipos de datos 
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: [Ver la lección]()
@@ -36,7 +36,7 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 - **Proyecto final**: [Crea tu aplicación POO]()
 ### Lección 6: Consejos y próximos pasos 
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [https://www.youtube.com/watch?v=44febD9HnRE](https://www.youtube.com/watch?v=44febD9HnRE)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
 ---
 ## 👥 Elaboración
@@ -50,5 +50,5 @@ NRC 7391<br>
 - Dayro
 - Maria
 - Piero
-- Vannesa
+- Vanessa Choy Robles
 - Fabiola Saldaña Ayala
