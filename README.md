@@ -26,6 +26,7 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO 
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - **Enlace video**: [Ver la lección]()
+- **Enlace código**: [Revisar la lección](https://www.jdoodle.com/ga/kiKnNr9VU6aQeh7EJsd5Eg%3D%3D)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
 - **Práctica**: [Haz clic para practicar]() 
 ### Lección 5: Fundamentos de POO y programas sencillos 
