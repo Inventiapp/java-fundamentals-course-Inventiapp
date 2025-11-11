@@ -12,7 +12,7 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
 - **Enlace**: [https://www.youtube.com/watch?v=SG2eBjIP9Qc](https://www.youtube.com/watch?v=SG2eBjIP9Qc)
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Replit - Hola mundo]()
+- **Empieza a programar**: [https://github.com/Inventiapp/java-fundamentals-course-Inventiapp/blob/main/lessons/lesson1/Main.java](https://github.com/Inventiapp/java-fundamentals-course-Inventiapp/blob/main/lessons/lesson1/Main.java)
 ### Lección 2: Variables y tipos de datos 
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: [Ver la lección]()
