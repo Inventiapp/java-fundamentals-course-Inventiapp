@@ -15,7 +15,7 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 - **Empieza a programar**: [https://github.com/Inventiapp/java-fundamentals-course-Inventiapp/blob/main/lessons/lesson1/Main.java](https://github.com/Inventiapp/java-fundamentals-course-Inventiapp/blob/main/lessons/lesson1/Main.java)
 ### Lección 2: Variables y tipos de datos 
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [https://youtu.be/ja3Ew-hLgRE](https://youtu.be/ja3Ew-hLgRE)
 - **Conclusiones clave**: Usa int, String; declara como int age = 15;
 ### Lección 3: Estructuras de control: Decisiones y bucles 
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
