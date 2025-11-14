@@ -3,7 +3,7 @@
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo
 programación orientada a objetos. No es necesario descargar Java.<br>
 **Duración total**: ~60 minutos<br>
-**Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+**Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación <br>
 **Prerrequisitos**: Ninguno<br>
 **Herramientas necesarias**: Navegador web (Chrome, Firefox, Safari, Edge)<br>
 **Repositorio de Código Fuente**: [https://github.com/Inventiapp/java-fundamentals-course-Inventiapp](https://github.com/Inventiapp/java-fundamentals-course-Inventiapp)<br>
@@ -15,19 +15,17 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 - **Empieza a programar**: [https://github.com/Inventiapp/java-fundamentals-course-Inventiapp/blob/main/lessons/lesson1/Main.java](https://github.com/Inventiapp/java-fundamentals-course-Inventiapp/blob/main/lessons/lesson1/Main.java)
 ### Lección 2: Variables y tipos de datos 
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [https://youtu.be/ja3Ew-hLgRE](https://youtu.be/ja3Ew-hLgRE)
 - **Conclusiones clave**: Usa int, String; declara como int age = 15;
-- **Práctica**: [Clic para programar]() 
 ### Lección 3: Estructuras de control: Decisiones y bucles 
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección]()
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
-- **Práctica**: [Clic para programar]() 
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO 
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlace video**: [Ver la lección]()
+- **Enlace video**: [https://youtu.be/aZ67Gg6Exa8](https://youtu.be/aZ67Gg6Exa8)
+- **Enlace código**: [https://www.jdoodle.com/ga/kiKnNr9VU6aQeh7EJsd5Eg%3D%3D](https://www.jdoodle.com/ga/kiKnNr9VU6aQeh7EJsd5Eg%3D%3D)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar]() 
 ### Lección 5: Fundamentos de POO y programas sencillos 
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace**: [Ver la lección]()
@@ -39,11 +37,11 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
 ---
 ## 👥 Elaboración
-Universidad Peruana de Ciencias Aplicadas <br>
-Carrera de Ingeniería de Software <br>
-Período 202520<br>
-1ASI0729 Desarrollo de Aplicaciones Open Source <br>
-NRC 7391<br> 
+**Universidad Peruana de Ciencias Aplicadas** <br>
+**Carrera de Ingeniería de Software** <br>
+**Período 202520**<br>
+**1ASI0729 Desarrollo de Aplicaciones Open Source**<br>
+**NRC 7391**<br> 
 **Nombre del equipo**: Inventiapp<br> 
 **Integrantes del equipo**:
 - Dayro
