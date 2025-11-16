@@ -27,11 +27,10 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 - **Enlace video**: [https://youtu.be/aZ67Gg6Exa8](https://youtu.be/aZ67Gg6Exa8)
 - **Enlace código**: [https://www.jdoodle.com/ga/kiKnNr9VU6aQeh7EJsd5Eg%3D%3D](https://www.jdoodle.com/ga/kiKnNr9VU6aQeh7EJsd5Eg%3D%3D)
 ### Lección 5: Fundamentos de POO y programas sencillos 
-- **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace**: [Ver la lección]()
-- **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO]()
-- **Enlace código**: []()
+- **Descripción**: Construye un programa POO básico aplicando clases, objetos, encapsulación y arreglos.
+- **Enlace**: [https://youtu.be/eQP39iwJaGI](https://youtu.be/eQP39iwJaGI)
+- **Conclusiones clave**: Comprendes instanciación, encapsulación con getters/setters y el uso de arreglos para modelar un curso con alumnos.
+- **Enlace código**: [https://www.jdoodle.com/ga/WyjZzRkD%2FkIX3SA%2BarLHNw%3D%3D](https://www.jdoodle.com/ga/WyjZzRkD%2FkIX3SA%2BarLHNw%3D%3D)
 ### Lección 6: Consejos y próximos pasos 
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [https://youtu.be/jYy2kHSya7I](https://youtu.be/jYy2kHSya7I)
