@@ -15,7 +15,7 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 ### Lección 2: Variables y tipos de datos 
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: [https://youtu.be/ja3Ew-hLgRE](https://youtu.be/ja3Ew-hLgRE)
-- **Enlace código**: []()
+- **Enlace código**: [https://www.jdoodle.com/ga/de6dVTsOab94gzvEBY7VNw%3D%3D](https://www.jdoodle.com/ga/de6dVTsOab94gzvEBY7VNw%3D%3D)
 ### Lección 3: Estructuras de control: Decisiones y bucles 
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección]()
