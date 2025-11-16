@@ -20,8 +20,8 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 - **Enlace código**: [https://www.jdoodle.com/ga/de6dVTsOab94gzvEBY7VNw%3D%3D](https://www.jdoodle.com/ga/de6dVTsOab94gzvEBY7VNw%3D%3D)
 ### Lección 3: Estructuras de control: Decisiones y bucles 
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver la lección]()
-- **Enlace código**: []()
+- **Enlace**: [https://youtu.be/SE9zeHPay70](https://youtu.be/SE9zeHPay70)
+- **Enlace código**: [https://www.jdoodle.com/ga/eBDtA60i2aNMPbr6Zfiz7w%3D%3D](https://www.jdoodle.com/ga/eBDtA60i2aNMPbr6Zfiz7w%3D%3D)
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO 
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - **Enlace video**: [https://youtu.be/aZ67Gg6Exa8](https://youtu.be/aZ67Gg6Exa8)
