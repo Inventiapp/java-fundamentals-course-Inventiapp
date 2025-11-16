@@ -11,7 +11,9 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 ### Lección 1: ¿Qué es Java y la Programación? 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
 - **Enlace**: [https://youtu.be/5hM6j3um1_g](https://youtu.be/5hM6j3um1_g)
-- **Enlace código**: []()
+- **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
+- **Empieza a programar**: [https://github.com/Inventiapp/java-fundamentals-course-Inventiapp/tree/main/lessons/lesson1](https://github.com/Inventiapp/java-fundamentals-course-Inventiapp/tree/main/lessons/lesson1)
+- **Enlace código**: [https://www.jdoodle.com/ga/ZrWFpqJgIX%2F34yEWl%2F%2F1aQ%3D%3D](https://www.jdoodle.com/ga/ZrWFpqJgIX%2F34yEWl%2F%2F1aQ%3D%3D)
 ### Lección 2: Variables y tipos de datos 
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: [https://youtu.be/ja3Ew-hLgRE](https://youtu.be/ja3Ew-hLgRE)
@@ -27,6 +29,8 @@ programación orientada a objetos. No es necesario descargar Java.<br>
 ### Lección 5: Fundamentos de POO y programas sencillos 
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace**: [Ver la lección]()
+- **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
+- **Proyecto final**: [Crea tu aplicación POO]()
 - **Enlace código**: []()
 ### Lección 6: Consejos y próximos pasos 
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
